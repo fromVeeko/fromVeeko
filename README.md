@@ -1,6 +1,6 @@
 Hi everybody!
 I'm Nicola, currently student @ university of Udine (IT).
-Hope you find something useful between my repos, but more probably you'll only find some stuff for my university project. 
+Hope you find something useful between my repos, but more probably you'll only find some stuff for my university projects. 
 Or maybe I've already uploaded something interesting but I forgot to update this file
 
 <!---
