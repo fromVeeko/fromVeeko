@@ -1,7 +1,7 @@
 Hi everybody!
-I'm Nicola, currently student @ university of Udine (IT).
-Hope you find something useful between my repos, but more probably you'll only find some stuff for my university projects. 
-Or maybe I've already uploaded something interesting but I forgot to update this file
+I'm Nicola, junior Pentester @ Shielder.
+Mostly interested in webapp security caveats.
+I also like lots of other stuff, but you are probably here for code/ownz. Sorry - nothing interesting (yet)! 
 
 <!---
 fromVeeko/fromVeeko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
