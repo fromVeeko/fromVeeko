@@ -1,6 +1,6 @@
 Hi everybody!
-I'm Nicola, junior Pentester @ Shielder.
-Mostly interested in webapp security caveats.
+I'm Nicola aka fromveeko, junior Pentester @ Shielder.
+Mostly interested in webapp security magic.
 I also like lots of other stuff, but you are probably here for code/ownz. Sorry - nothing interesting (yet)! 
 
 <!---
